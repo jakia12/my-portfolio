@@ -1,0 +1,118 @@
+
+/*================================
+***********************
+=================================*/
+@media (min-width:992px){
+  .wrapper{
+    max-width: 1140px;
+    
+    padding: 0 40px;
+    margin:0 auto;
+   
+  }
+}
+
+@media only screen and (max-width: 992px) and (min-width: 768px)
+{
+  .wrapper{
+    max-width:962px;
+    padding:0 10px;
+  }
+  .img-box {
+    max-width: 350px;
+  }
+}
+
+@media only screen and (max-width: 992px){
+  .col-md-4 {
+    width: 50%;
+  }
+
+  .form-box {
+    padding: 0 130px;
+  }
+}
+
+
+@media screen and (max-width: 768px){
+  .all-sec{
+    padding:60px 0;
+  }
+  .wrapper{
+    max-width: 700px;
+    padding:0 20px;
+  }
+  .col-md-6{
+    width:100%;
+    max-width:100%;
+   
+  }
+  .img-box{
+    width:100%;
+    margin:0 auto;
+  }
+
+  .img-area{
+    margin-bottom:65px
+  }
+
+  .img-box{
+    width:100%;
+  }
+  .about-content{
+    text-align: center;
+  }
+
+  .form-box {
+    padding: 0 80px;
+  }
+}
+
+
+@media only screen and (max-width: 590px){
+  .col-md-4 {
+   width: 100%;
+  }
+
+  .ser-box{
+    margin:18px 38px
+  }
+  .client-slides{
+    padding:0 0;
+  }
+
+  .quote-icon i{
+    display:none;
+  }
+}
+
+@media only screen and (max-width: 576px){
+  .form-box {
+    padding: 0 30px;
+  }
+}
+
+@media only screen and (max-width: 450px){
+  .form-box {
+    padding: 0 0;
+  }
+  .ser-box{
+    margin:0 16px 30px 16px
+  }
+}
+/*================================
+************banner area***********
+=================================*/
+
+
+/*================================
+************banner area***********
+=================================*/
+
+/*================================
+************banner area***********
+=================================*/
+
+/*================================
+************banner area***********
+=================================*/
